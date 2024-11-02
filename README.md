@@ -34,11 +34,6 @@ Soy un desarrollador apasionado, siempre buscando aprender y compartir conocimie
 
 ---
 
-## 🌟 Contribuciones
-Me gusta contribuir a proyectos de código abierto. Si tienes un proyecto y necesitas ayuda, ¡no dudes en contactarme!
-
----
-
 ## 📫 Conéctate Conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-pablomederos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablomederos)
@@ -57,11 +52,8 @@ Me gusta contribuir a proyectos de código abierto. Si tienes un proyecto y nece
 
 ---
 
-## ☕ Apoyo
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/pablomederos)
 
----
 
 ¡Gracias por visitar mi perfil! 🚀
 
