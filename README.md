@@ -1,6 +1,8 @@
 # ¡Hola! Soy Pablo Mederos 👋  
 ### Desarrollador Web
 
+![Tu Imagen](ruta/a/tu_imagen.jpg) <!-- Asegúrate de reemplazar esta ruta con la ruta de tu imagen -->
+
 [![GitHub Followers](https://img.shields.io/github/followers/pablomederos?style=social)](https://github.com/pablomederos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pablomederos?style=social)](https://twitter.com/pablomederos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Mederos-0077B5?style=social&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/pablomederos)
@@ -51,9 +53,6 @@ Soy un desarrollador apasionado, siempre buscando aprender y compartir conocimie
 - **[JavaScript Algorithms and Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/pablomederos/javascript-algorithms-and-data-structures)** - 2024
 
 ---
-
-
-
 
 ¡Gracias por visitar mi perfil! 🚀
 
